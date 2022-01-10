@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Greybph
 - 👀 I’m interested in web development and computer programs
 - 🌱 I’m currently learning React and Remix
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me andrewlfauth8@gmail.com
 <!---
 Greybph/Greybph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
